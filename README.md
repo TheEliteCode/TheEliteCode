@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheEliteCode
 - 👀 I’m interested in Programming and software engineering
-- 🌱 I’m currently learning software engineering with the alx team
+- 🌱 I’m currently learning software engineering @ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (davode12@gmail.com)
 
