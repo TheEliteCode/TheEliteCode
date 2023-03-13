@@ -8,12 +8,14 @@
 </a>
 
 <a href="https://wallpapers.com/wallpapers/glowing-venom-flame-art-zp98g604tbqy8ldb.html?embed=true">
+  
+#THE ELITE ALEX
 
 - 👋 Hi, I’m @TheEliteCode
-- 👀 I’m interested in Programming and software engineering
-- 🌱 I’m currently learning software engineering @ALX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (davode12@gmail.com)
+- 👀 I’m interested in everything related to  Programming and software engineering
+- 🌱 I’m currently open sofware enjineering jobs and projects
+- 💞️ I’m looking to collaborate with startups and businesses ready to scale up 
+- 📫 How to reach me (davode12@gmail.com) and (theeliteconsults1@gmail.com)
 
 <!---
 TheEliteCode/TheEliteCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
