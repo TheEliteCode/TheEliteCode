@@ -17,7 +17,7 @@
 ## Connect with Me 🤝
 - 👨‍💼 LinkedIn: [Alexander David](https://www.linkedin.com/in/david-alexander1)
 - 📧 Email: [alexanderdavid@gmail.com](mailto:davode12@gmail.com)
-- 🌐 Portfolio: 
+- 🌐 Portfolio: [TheEliteAlex](https://theelitecode.github.io/Data-Analysis-Portfolio/)
 
 ## Let's Analyze Some Data Together! 🚀
 
